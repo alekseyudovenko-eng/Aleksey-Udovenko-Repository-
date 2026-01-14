@@ -1,5 +1,5 @@
 {
-  "name": "FCPO Futures Price Tracker",
-  "description": "A sophisticated dashboard to visualize and track the futures prices of Crude Palm Oil (FCPO). It features an interactive candlestick chart, timeframe selection, and a clean, modern interface for financial data analysis.",
+  "name": "Live FCPO Futures Tracker",
+  "description": "A professional-grade dashboard tracking real-time Crude Palm Oil (FCPO) futures prices using Gemini AI and Google Search Grounding for accurate market data.",
   "requestFramePermissions": []
 }
